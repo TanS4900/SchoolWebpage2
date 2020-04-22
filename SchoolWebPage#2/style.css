@@ -1,0 +1,35 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+
+.header {
+
+background-color: #00ff00;
+display:flex;
+justify-content: space-evenly;
+
+}
+
+.options {
+
+    background-color:#ff00ff;
+
+}
+
+
+.footer {
+background-color:#0000ff;
+display:flex;
+justify-content:space-evenly;
+
+}
+
+.menu {
+background-color:#00f00f;
+display:flex;
+justify-content: space-evenly;
+}
